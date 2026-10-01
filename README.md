@@ -38,4 +38,4 @@ Building PubSignal into a useful, sustainable product for digital publishers whi
 ## Find Me
 
 - Website: https://pubsignal.in
-- LinkedIn: [Add your LinkedIn profile URL here]
+- LinkedIn:https://www.linkedin.com/in/priyanshu-chowdhury-ai-founder-entrepreneur/
