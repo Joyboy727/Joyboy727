@@ -1,13 +1,13 @@
 # Hi, I'm Priyanshu Chowdhury 👋
 
-I'm the founder and editor-in-chief of [PubSignal](https://pubsignal.in), an independent publication and software platform focused on digital publishers.
+I'm the founder and editor-in-chief of [PubSignal](https://pubsignal.in) — an independent publication and publisher intelligence platform covering digital publishing economics, monetization, and search visibility.
 
-I have a background in web development and I'm interested in building useful products with software, AI, and automation.
+That's my primary focus. I also come from a web development background and enjoy building software, AI-assisted tooling, and automation.
 
 ## What I'm Building
 
 ### PubSignal
-An independent publication and publisher-intelligence platform covering:
+An independent publication and publisher intelligence platform covering:
 - Digital publishing economics
 - Publisher monetization and ad revenue
 - Search visibility and content performance
@@ -17,11 +17,14 @@ Website: https://pubsignal.in
 
 ## What I Work On
 
-- Web development and software products
+- Publisher intelligence: research, benchmarks, and monetization data
+- Free tools for digital publishers (calculators, audits, checkers)
 - AI-assisted research and workflow automation
 - APIs, tools, and system integrations
 - Data-driven publishing research
 - Building repeatable systems that reduce manual work
+
+Background: web development and software engineering.
 
 ## My Approach
 
@@ -38,4 +41,5 @@ Building PubSignal into a useful, sustainable product for digital publishers whi
 ## Find Me
 
 - Website: https://pubsignal.in
-- LinkedIn:https://www.linkedin.com/in/priyanshu-chowdhury-ai-founder-entrepreneur/
+- LinkedIn: https://www.linkedin.com/in/priyanshu-chowdhury-ai-founder-entrepreneur/
+- GitHub: https://github.com/Joyboy727
