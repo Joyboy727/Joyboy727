@@ -1,5 +1,10 @@
 # Hi, I'm Priyanshu Chowdhury 👋
 
+
+<img width="1400" height="784" alt="image" src="https://github.com/user-attachments/assets/5d4fb7a7-96a5-4f23-92a1-effca57a6fb6" />
+
+
+
 I'm the founder and editor-in-chief of [PubSignal](https://pubsignal.in) — an independent publication and publisher intelligence platform covering digital publishing economics, monetization, and search visibility.
 
 That's my primary focus. I also come from a web development background and enjoy building software, AI-assisted tooling, and automation.
